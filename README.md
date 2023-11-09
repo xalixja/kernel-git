@@ -10,7 +10,7 @@
 Na samym początku zforkuj repozytorium do swojego konta na Githubie! Dziękie temu będziesz mieć swoją własną kopię tego repo u siebie.
 Aby to zrobić musisz kliknąć przycisk "Fork" po prawej górnej części ekranu:
 
-![image](https://user-images.githubusercontent.com/5701304/138130291-17e40ddf-b00d-4d1a-85c7-eda738e72057.png)
+![image](./img//fork-button.png)
 
 <br>Gdy to już zrobisz <b>sklonuj repozytorium</b>, aby móc z niego korzystać lokalnie
 <details><summary>Rozwiązanie</summary>
@@ -182,7 +182,5 @@ Po zaakceptowaniu przez nią jakości twoich zmian zmerguj PR do mastera.
 ## Część III - Post Scriptum
 
 Na końcu stwórz nowy Issue do Repozytorium które sforkowałeś/łaś w pierwszej części. Daj znać co sądzisz o dzisiejszych warsztatach i jak Ci poszło ;) 
-
-Jeśli spodobały Ci się zajęcia zostaw "Gwiazdkę" w Repozytorium :) 
 
 Znośnego wieczoru! 
